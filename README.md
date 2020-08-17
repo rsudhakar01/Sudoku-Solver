@@ -1,2 +1,2 @@
-# Sudoku-Solver
+# Sudoku Solver
 Contains Sudoku Solver
